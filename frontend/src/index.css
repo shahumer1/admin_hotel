@@ -1,0 +1,16 @@
+:root {
+  --bg: #f8fafc;
+  --muted: #6b7280;
+  --primary: #0ea5a4;
+  --card: #ffffff;
+  --radius: 8px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: var(--bg);
+  color: #111827;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
